@@ -1,0 +1,19 @@
+.card{
+    /*margin: 50px;*/
+    padding: 5px;
+    margin: 50px;
+    text-align: center;
+}
+
+.fact_holder {
+    border: 10px ridge;
+    text-align: center;
+    padding: 25px;
+    margin: 50px;
+}
+
+.fact {
+    /*background-color: aqua;*/
+    padding: 2px;
+    font-size: x-large;
+}

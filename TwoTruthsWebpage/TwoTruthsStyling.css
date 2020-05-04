@@ -1,0 +1,25 @@
+.card{
+    margin: 50px;
+}
+
+.fact_holder {
+    border: 10px ridge;
+    text-align: center;
+    padding-bottom: 25px;
+    margin: 50px;
+}
+
+.fact {
+    /*background-color: aqua;*/
+    padding: 2px;
+    font-size: x-large;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
+.title {
+    margin: 20px;
+    font-size: x-large;
+}
